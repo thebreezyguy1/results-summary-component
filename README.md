@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Desktop Screenshot
 
-![](./desktop-screenshot.png)
+![](./src/assets/desktop-screenshot.png)
 
 
 ### Mobile Screenshot
 
-![](./mobile-screenshot.png)
+![](./src/assets/mobile-screenshot.png)
 
 
 ### Links
