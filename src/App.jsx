@@ -22,12 +22,14 @@ function App() {
           </div>
         </div>
         <div className="summary-container">
-          <h3>Summary</h3>
-          <div className="categories-score-container">
-            <Category imgSrc={reactionIcon} color="red" name="Reaction" score="80" />
-            <Category imgSrc={memoryIcon} color="yellow" name="Memory" score="92" />
-            <Category imgSrc={verbalIcon} color="green" name="Verbal" score="61" />
-            <Category imgSrc={visualIcon} color="blue" name="Visual" score="72" />
+          <div>
+            <h3>Summary</h3>
+            <div className="categories-score-container">
+              <Category imgSrc={reactionIcon} color="red" name="Reaction" score="80" />
+              <Category imgSrc={memoryIcon} color="yellow" name="Memory" score="92" />
+              <Category imgSrc={verbalIcon} color="green" name="Verbal" score="61" />
+              <Category imgSrc={visualIcon} color="blue" name="Visual" score="72" />
+            </div>
           </div>
           <button>Continue</button>
         </div>

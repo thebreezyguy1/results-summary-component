@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Link](https://your-solution-url.com)
+- Solution URL: [Solution Link](https://www.frontendmentor.io/solutions/result-summary-component-using-css-flexbox-and-reactjs-XML4_RQDJp)
 - Live Site URL: [Result Summary Component Live URL](https://results-summary-comp-by-dorian.netlify.app/)
 
 ## My process
